@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight",
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Operator Mono, 'Inconsolata for Powerline', Menlo",
+    "editor.fontSize": 14,
+    "editor.cursorStyle": "underline-thin",
+    "editor.minimap.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": false,
+    "window.zoomLevel": 0,
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    },
+    "githubPullRequests.hosts": [
+        {
+            "host": "https://github.com",
+            "username": "oauth",
+            "token": "system"
+        }
+    ]
+}
